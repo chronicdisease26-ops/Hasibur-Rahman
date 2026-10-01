@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "ঢাকা - দেশ ও বিশ্বের সর্বশেষ সংবাদ",
+  "short_name": "ঢাকা",
+  "description": "বাংলাদেশের শীর্ষস্থানীয় ডিজিটাল সংবাদপত্র। সত্যনিষ্ঠ ও নির্ভরযোগ্য সংবাদ।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

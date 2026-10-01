@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhaka.news/sitemap.xml
+Sitemap: https://dhaka.news/news-sitemap.xml

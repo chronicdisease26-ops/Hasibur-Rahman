@@ -1,0 +1,6 @@
+{
+  "name": "ঢাকা - দেশ ও বিশ্বের সর্বশেষ সংবাদ",
+  "description": "বাংলাদেশের শীর্ষস্থানীয় ডিজিটাল সংবাদপত্র। জাতীয়, রাজনীতি, অর্থনীতি, খেলাধুলা, আন্তর্জাতিক ও বিনোদনের সত্যনিষ্ঠ ও নির্ভরযোগ্য সংবাদ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
